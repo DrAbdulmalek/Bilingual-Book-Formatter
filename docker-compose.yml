@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  bilingual-formatter:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./config.json:/app/config.json
+      - ./output:/app/output
+    environment:
+      - API_KEY=${API_KEY:-SECRET_API_KEY}
+      - DEEPL_API_KEY=${DEEPL_API_KEY}
+    restart: unless-stopped

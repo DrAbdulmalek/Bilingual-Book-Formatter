@@ -134,5 +134,5 @@ Bilingual-Book-Formatter/
 ---
 
 <div align="center">
-تم التطوير بواسطة د عبدالمالك الحسيني / حمص - سوريا <a href="https://github.com/DrAbdulmalek">DrAbdulmalek</a>
+تم التطوير بواسطة د عبدالمالك تامر الحسيني / حمص - سوريا <a href="https://github.com/DrAbdulmalek">DrAbdulmalek</a>
 </div>

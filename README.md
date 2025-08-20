@@ -38,13 +38,7 @@ cd Bilingual-Book-Formatter
 pip install -r requirements.txt
 ```
 
-على Android (Termux):
-
-```bash
-# تشغيل سكريبت التثبيت
-bash setup.sh
-```
-
+على Android (
 📖 طريقة الاستخدام
 
 عبر سطر الأوامر:

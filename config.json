@@ -1,0 +1,25 @@
+{
+    "page_margins": {"top": 2.5, "bottom": 2.5, "left": 2.0, "right": 2.0},
+    "fonts": {
+        "english": "Times New Roman",
+        "arabic": "Traditional Arabic",
+        "french": "Times New Roman",
+        "chinese": "Noto Serif CJK SC",
+        "persian": "Amiri",
+        "hebrew": "DejaVu Sans"
+    },
+    "rtl_languages": ["arabic", "persian", "hebrew"],
+    "styles": {
+        "normal": {"size": 12, "bold": False, "color": "000000"}
+    },
+    "export_pdf": true,
+    "export_epub": true,
+    "translation": {
+        "enable_deepl": false,
+        "deepl_api_key": ""
+    },
+    "image_processing": {
+        "enable": true,
+        "image_position": "center"
+    }
+}

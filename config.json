@@ -10,7 +10,7 @@
     },
     "rtl_languages": ["arabic", "persian", "hebrew"],
     "styles": {
-        "normal": {"size": 12, "bold": False, "color": "000000"}
+        "normal": {"size": 12, "bold": false, "color": "000000"}
     },
     "export_pdf": true,
     "export_epub": true,
@@ -23,3 +23,4 @@
         "image_position": "center"
     }
 }
+

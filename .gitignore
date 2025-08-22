@@ -1,0 +1,7 @@
+# استثناء أي ملف أو مجلد يحتوي كلمات سر أو tokens
+*token*
+*Token*
+*password*
+*Password*
+*secret*
+*Secret*
